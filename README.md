@@ -1,2 +1,1 @@
-# Vigseg
-Mira por las cámaras de computadoras y de los teléfonos celulares  asignados en los contactos 
+Realiza video llamadas y mensajería con todos tus contactos 
